@@ -1,1 +1,1 @@
-console.log('CIのテスト');
+console.log('CIテスト');
